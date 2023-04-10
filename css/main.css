@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 62.5%;
+}
+
+:root {
+  --color-dark-bg: #1f2937;
+  --hero-text-color: #E5E7EB;
+  --header-logo-color: #f9faf8;
+  --button-color: #3882F6;
+  --normal-text: 3.6rem;
+  --hero-text: 4.8rem;
+  --hero-subtext: 1.8rem;
+  --header-text: 2.4rem;
+}/*# sourceMappingURL=main.css.map */
